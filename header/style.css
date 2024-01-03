@@ -1,0 +1,42 @@
+.logo h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.logo h1 span:first-of-type {
+    padding: 5px 10px;
+    border: 1px solid beige;
+    color: yellowgreen;
+}
+
+.search-product input {
+    width: 70%;
+    height: 18px;
+    border-radius: 0;
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(2, 16, 10);
+    border: 1px solid rgb(211, 208, 202);
+    border-right: none;
+}
+
+.search-product button {
+    height: 40px;
+    border-radius: 0;
+    font-size: 18px;
+    color: yellowgreen;
+    border: 1px solid rgb(211, 208, 202);
+    margin-left: -3px;
+    /* display: inline-block; */
+    width: 25%;
+    background-color: white;
+
+}
+
+.header {
+    margin-top: 25px;
+}
+
+.selected-product {
+    text-align: right;
+}
