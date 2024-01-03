@@ -1,5 +1,8 @@
 body {
     margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(239, 238, 233, 0.032);
 }
 
 .wrapper {
@@ -35,4 +38,5 @@ body {
 .common-btn span {
     font-size: 18px;
     font-weight: 900;
+    letter-spacing: 10px;
 }
